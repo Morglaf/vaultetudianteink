@@ -1,0 +1,39 @@
+# Obsidian - Informations personnelles à exclure
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/starred.json
+.obsidian/graph.json
+.obsidian/page-preview.json
+.obsidian/.stversions/
+.obsidian/.stfolder/
+.obsidian/gvhkkk
+
+# Fichiers temporaires et caches
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+.obsidian/workspace
+
+# Plugins avec données personnelles
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/settings.json
+
+# Thèmes et snippets personnalisés (optionnel - décommentez si vous voulez les exclure)
+# .obsidian/themes/
+# .obsidian/snippets/
+
+# Fichiers de notes personnelles (ajustez selon vos besoins)
+*.md
+!readme.md
+!README.md
+!docs/*.md
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.temp
